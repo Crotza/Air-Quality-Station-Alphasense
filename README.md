@@ -3,9 +3,9 @@
 This code is designed to read data from multiple gas sensors and provide measurements for various gases such as Hydrogen Sulfide (H2S), Carbon Monoxide (CO), Volatile Organic Compounds (VOC), Nitrogen Dioxide (NO2), and Oxidising gases (Ozone + Nitrogen Dioxide).
 
 ## Requirements
-- Arduino board compatible with the code
+- Arduino Mega 2560
 - Gas sensors: H2S-B4, CO-B4, VOC-B4, NO2-B43F, OX-B431 (All the sensors are integrated with the ISB board, from Alphasense)
-- DHT sensor for temperature and humidity measurement
+- DHT 11 sensor for temperature and humidity measurement
 
 ## Setup
 1. Connect the gas sensors to the appropriate analog pins on your Arduino Board, in this case, they're connected like:
