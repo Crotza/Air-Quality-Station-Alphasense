@@ -1,4 +1,4 @@
-# Air Quality Station using Alphasense Sensors
+# Air Quality Station using Alphasense Sensors 🍃💨
 
 This code is designed to read data from multiple gas sensors and provide measurements for various gases such as Hydrogen Sulfide (H2S), Carbon Monoxide (CO), Volatile Organic Compounds (VOC), Nitrogen Dioxide (NO2), and Oxidising gases (Ozone + Nitrogen Dioxide).
 
